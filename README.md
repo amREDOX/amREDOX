@@ -6,16 +6,17 @@
 Here are some ideas to get you started:
 -->
 
+
+
+<h1 align="center" color="green">Hi 👋, I'm Biswadip Roy</h1>
+<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+
 - 🔭 I’m currently working on ...Node-Js
 - 🌱 I’m currently learning ...Node-Js
 - 👯 I’m looking to collaborate on any Web Developing Project
 - 📫 You can reach me: 
 - ⚡ Fun fact: ...I eat food
 
-
-
-<h1 align="center" color="green">Hi 👋, I'm Biswadip Roy</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amREDOX" alt="amredox" /></a> </p>
 
