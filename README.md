@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning: Node-Js
 - 👯 I’m looking to collaborate on any Web Developing Project
-- 📫 You can reach me: https://amredox.github.io/
+- 📫 All of my projects are available here: https://amredox.github.io/
 - 🔭 Here is my resume: https://drive.google.com/file/d/1HUBJ5XFQvv57-J1SBkPvp6UqsbGK-n8p/view?usp=share_link
+- 📫 You can connect me with: biswadip.jpg2003@gmail.com
 - ⚡ Fun fact: I eat food
 
 
