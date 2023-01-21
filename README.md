@@ -11,16 +11,16 @@ Here are some ideas to get you started:
 <h1 align="center" color="green">Hi 👋, I'm Biswadip Roy</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
-- 🔭 I’m currently working on ...Node-Js
-- 🌱 I’m currently learning ...Node-Js
+- 🌱 I’m currently learning: Node-Js
 - 👯 I’m looking to collaborate on any Web Developing Project
 - 📫 You can reach me: https://amredox.github.io/
-- ⚡ Fun fact: ...I eat food
+- 🔭 Here is my resume: https://drive.google.com/file/d/1HUBJ5XFQvv57-J1SBkPvp6UqsbGK-n8p/view?usp=share_link
+- ⚡ Fun fact: I eat food
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amREDOX" alt="amredox" /></a> </p>
 
-- 🌱 I’m currently learning **Mongo DB**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
