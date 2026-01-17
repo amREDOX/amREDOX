@@ -9,12 +9,12 @@ Here are some ideas to get you started:
   <img src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966"</img>
 </div>
 <h1 align="center" color="green">Hi 👋, I'm Biswadip Roy</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h3 align="center">A passionate Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amredox&label=Profile%20views&color=0e75b6&style=flat" alt="amredox" /> </p>
 
 - 🌱 I’m currently learning: Node-Js
-- 👯 I’m looking to collaborate on any Web Developing Project
+- 👯 I’m looking to collaborate on any Web Developing Project and Cyber Security Project
 - 📫 All of my projects are available here: https://amredox.github.io/
 - 🔭 Here is my resume: https://drive.google.com/file/d/1HUBJ5XFQvv57-J1SBkPvp6UqsbGK-n8p/view?usp=share_link
 - 📫 You can connect me with: biswadip.jpg2003@gmail.com
